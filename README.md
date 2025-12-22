@@ -1,6 +1,7 @@
-AI-Assisted Surveillance Network Topology (Network Topology.png)
+<img width="768" height="433" alt="Network Topology" src="https://github.com/user-attachments/assets/c84fa8c6-5eda-4ded-84b0-4c61d03983c1" />
 
 # AI-Assisted Surveillance System (NVR + IP Cameras)
+
 
 This repository documents a hands-on lab project focused on building and documenting an **AI-assisted physical security surveillance system** using an **NVR**, **PoE switch**, and multiple **IP cameras**.
 
