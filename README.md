@@ -1,4 +1,4 @@
-![AI-Assisted Surveillance Network Topology](docs/topology.png)
+![AI-Assisted Surveillance Network Topology](Network.png)
 
 # AI-Assisted Surveillance System (NVR + IP Cameras)
 
